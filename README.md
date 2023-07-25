@@ -7,7 +7,7 @@
 
 Lo que primero se va a realizar es la creación de un dataset de datos, para entender como usar la solución de Oracle Analytics Cloud y sus funcionalidades.
 
-[Crear Dataset de forma manual.](Crear Datset desde Excel.md)
+[Como Crear un Dataset en OAC](Crear_Dataset_Excel.md)
 
 
 
