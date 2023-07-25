@@ -5,6 +5,8 @@
 
 <img src="opt/Pasted image 20230725083030.png" alt="Dataset Races">
 
+[Texto del enlace](Crear_Dataset_Excel.md)
+
 
 ![[Pasted image 20230725083011.png]]
 ![[Pasted image 20230725083030.png]]
