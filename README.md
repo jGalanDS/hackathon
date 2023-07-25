@@ -2,7 +2,15 @@
 
 ---
 
+## Introducción
+
 Como se describe en la introducción de este hackathon, nuestro objetivo es identificar los factores que hacen que una carrera de Fórmula 1 sea **genial**. Estos factores pueden ser el número de adelantamientos, el clima, el circuito en el que se celebra la carrera, entre otros. Si podemos identificar los factores que importan para la experiencia de los fanáticos, entonces podremos influir potencialmente en esos factores y crear carreras aún mejores.
+
+### Tienes acceso a lo siguiente:
+
+Información sobre carreras (1950-2021). Por ejemplo, el circuito de cada carrera, los tiempos de vuelta, las paradas en boxes y los resultados de cada carrera.
+
+Una puntuación de los fanáticos por carrera (2008-2020) (fuente: _racefans.net_). Estas puntuaciones fueron recopiladas de muchos fanáticos y resultan en una puntuación promedio agregada para cada carrera. Trataremos esta puntuación de los fanáticos como la verdad fundamental de qué tan "buena" es una carrera. Es importante tener en cuenta que no tenemos puntuaciones de los fanáticos para 2021.
 
 ---
 
