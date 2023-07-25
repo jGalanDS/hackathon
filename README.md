@@ -48,9 +48,20 @@ _Para iniciar con el hackathon es necesario la creación de los data set de dato
 
 [Diccionarios de datos ](Diccionarios.md)
 
+---
+# Preguntas a resolver en esta hackathon
 
+```
+¿Cuál ha sido la mejor y la peor carrera de F1?
+```
+
+```
+¿Por qué esas dos carreras fueron tan distintas?
+```
+
+El **equipo** que conteste estas dos preguntas en el menor tiempo tendrá una bonificación extra en el criterio de evaluación.
 
 ---
 
-##### Creado por JGALAN https://www.linkedin.com/in/jorge-alexander-galan-mendez/
+###### Creado por JGALAN https://www.linkedin.com/in/jorge-alexander-galan-mendez/
 V_2.0
