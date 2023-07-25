@@ -48,6 +48,12 @@ _Para iniciar con el hackathon es necesario la creación de los data set de dato
 
 [Diccionarios de datos ](Diccionarios.md)
 
+
+## Modo de presentación 
+
+[Com ](comopresentarenOAC.md)
+
+
 ---
 # Preguntas a resolver en esta hackathon
 
