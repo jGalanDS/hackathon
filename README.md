@@ -16,8 +16,11 @@ Una puntuación de los fanáticos por carrera (2008-2020) (fuente: _racefans.net
 
 ### Archivos a descargar.
 
-[Archivo de entrenamiento](A_ordersalesdata.xlsx)
 
+[Script SQL data F1](opt/HackathonScript-redbull-create-user_V3.sql)
+
+[Archivo de entrenamiento](opt/A_ordersalesdata.xlsx)
+![[HackathonScript-redbull-create-user_V3.sql]]
 
 ![[A_ordersalesdata.xlsx]]
 ## Creación del Dataset de datos-Cargar por OAC.
