@@ -14,6 +14,15 @@ Lo que primero se va a realizar es la creación de un dataset de datos, para ent
 
 [Revisión de datos en Analytics Cloud](AnalisisDatos.md)
 
+## Data set para el hackathon
+
+_Para iniciar con el hackathon es necesario la creación de los data set de datos RACES y LAPTIMES , los cuales van a ser los elementos claves para el desarrollo de este hackathon._
+
+
+[Creación de data sets](Hackathon_datasets.md)
+
+
+
 1- Races
 
  
