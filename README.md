@@ -14,8 +14,6 @@ Lo que primero se va a realizar es la creación de un dataset de datos, para ent
 
 [Revisión de datos en Analytics Cloud](AnalisisDatos.md)
 
-
-
 1- Races
 
  
