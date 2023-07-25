@@ -41,3 +41,36 @@ De esta forma quedarían las recomendaciones que automáticamente son creadas po
 
 ![[Pasted image 20230725091650.png]]
 
+## Filtros.
+
+Mover la variable **city** al campo de filtros.
+
+<img src="opt/Pasted image 20230725091922.png" alt="Filtros">
+
+![[Pasted image 20230725091922.png]]
+
+## Trellis
+
+Al usar **Trellis** se pueden dividir las gráficas en diferentes partes usando una variable categórica.
+
+<img src="opt/Pasted image 20230725092418.png" alt="Trellis">
+
+![[Pasted image 20230725092418.png]]
+
+## Tablas
+
+La creación es una parte importante el proceso de análisis de datos, las **tablas** se realizan de la siguiente forma:
+
+<img src="opt/Pasted image 20230725092608.png" alt="tablas">
+
+![[Pasted image 20230725092608.png]]
+
+Para ordenar las **tablas** es de la siguiente forma:
+
+<img src="opt/Pasted image 20230725093038.png" alt="ordenar">
+
+
+![[Pasted image 20230725093038.png]]
+
+
+
