@@ -14,15 +14,16 @@ Una puntuación de los fanáticos por carrera (2008-2020) (fuente: _racefans.net
 
 ---
 
-### Archivos a descargar.
+### Archivos necesarios.
 
 
 [Script SQL data F1](opt/HackathonScript-redbull-create-user_V3.sql)
 
 [Archivo de entrenamiento](opt/A_ordersalesdata.xlsx)
-![[HackathonScript-redbull-create-user_V3.sql]]
 
-![[A_ordersalesdata.xlsx]]
+---
+
+
 ## Creación del Dataset de datos-Cargar por OAC.
 
 Lo que primero se va a realizar es la creación de un dataset de datos, para entender como usar la solución de Oracle Analytics Cloud y sus funcionalidades.
