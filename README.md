@@ -51,7 +51,7 @@ _Para iniciar con el hackathon es necesario la creación de los data set de dato
 
 ## Modo de presentación 
 
-[Com ](comopresentarenOAC.md)
+[¿Como presentar en OAC tus historias? ](comopresentarenOAC.md)
 
 
 ---
