@@ -1,5 +1,10 @@
 # Bienvenidos a este *hackathon* de Racing 2 Cloud.
 
+---
+
+Como se describe en la introducción de este hackathon, nuestro objetivo es identificar los factores que hacen que una carrera de Fórmula 1 sea **genial**. Estos factores pueden ser el número de adelantamientos, el clima, el circuito en el que se celebra la carrera, entre otros. Si podemos identificar los factores que importan para la experiencia de los fanáticos, entonces podremos influir potencialmente en esos factores y crear carreras aún mejores.
+
+---
 
 
 
