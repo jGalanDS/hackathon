@@ -3,6 +3,17 @@
 
 
 
+## Creación del Dataset de datos-Cargar por OAC.
+
+Lo que primero se va a realizar es la creación de un dataset de datos, para entender como usar la solución de Oracle Analytics Cloud y sus funcionalidades.
+
+[Crear Dataset de forma manual.](Crear Datset desde Excel.md)
+
+
+
+
+
+
 
 
 1- Races
