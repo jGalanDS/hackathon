@@ -14,8 +14,12 @@ Una puntuación de los fanáticos por carrera (2008-2020) (fuente: _racefans.net
 
 ---
 
+### Archivos a descargar.
+
+[Archivo de entrenamiento](A_ordersalesdata.xlsx)
 
 
+![[A_ordersalesdata.xlsx]]
 ## Creación del Dataset de datos-Cargar por OAC.
 
 Lo que primero se va a realizar es la creación de un dataset de datos, para entender como usar la solución de Oracle Analytics Cloud y sus funcionalidades.
@@ -40,3 +44,8 @@ _Para iniciar con el hackathon es necesario la creación de los data set de dato
 
 [Diccionarios de datos ](Diccionarios.md)
 
+
+
+
+##### Creado por JGALAN https://www.linkedin.com/in/jorge-alexander-galan-mendez/
+V_2.0
