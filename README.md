@@ -10,9 +10,9 @@ Lo que primero se va a realizar es la creación de un dataset de datos, para ent
 [Como Crear un Dataset en OAC](Crear_Dataset_Excel.md)
 
 
+## Revisión de datos en Analytics Cloud
 
-
-
+[Revisión de datos en Analytics Cloud](AnalisisDatos.md)
 
 
 
