@@ -1,7 +1,7 @@
 
 ## *RACE* DATA SET
 
-Para la creación del data set de **RACE** en OAC se deben seguir los siguientes pasos: (_Ver video a continuación_)
+Para la creación del data set de **RACE** en OAC se deben seguir los siguientes pasos: (_Ver video a continuación_) _Haga clic en la siguiente imagen para ver el video_ 👇
 
 
  
@@ -12,7 +12,7 @@ Para la creación del data set de **RACE** en OAC se deben seguir los siguientes
 
 ## *LAPTIMES* data set.
 
-Para la creación del data set de **LAPTIMES** en OAC se deben seguir los siguientes pasos: (_Ver video a continuación_)
+Para la creación del data set de **LAPTIMES** en OAC se deben seguir los siguientes pasos: (_Ver video a continuación_) _Haga clic en la siguiente imagen para ver el video_ 👇
 
 En este data set encontraremos la información de:
 
