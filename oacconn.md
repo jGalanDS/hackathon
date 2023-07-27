@@ -43,6 +43,18 @@ Seleccionar el tipo de conexión
 
 En crear conexión asi:
 
+USER
+
+```
+F1
+```
+
+PASSWORD:
+
+```
+Oracle_12345
+```
+
 <img src="opt/Pasted image 20230727051428.png" alt="oac4">
 
 
