@@ -41,8 +41,6 @@ Seleccionar el tipo de conexión
 
 <img src="opt/Pasted image 20230727051349.png" alt="oactipo">
 
-<img src="opt/Pasted image 20230727051349.png]" alt="oac3">
-
 En crear conexión asi:
 
 <img src="opt/Pasted image 20230727051428.png" alt="oac4">
