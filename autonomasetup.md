@@ -36,5 +36,38 @@ Welcome123456$
 #### Fin de la creación de la base, el proceso puede durar unos **2 minutos** en promedio.
 ---
 
+## Carga de archivos requeridos para Hackathon.
+
+Si no has descargado el script requerido lo puedes descargar desde el siguiente enlace. _HackathonScript-redbull-create-user_V3.sql_
+
+[Script SQL data F1](opt/HackathonScript-redbull-create-user_V3.sql)
+
+<img src="opt/Pasted image 20230727042157.png]" alt="datatools">
+
+En el editor de SQL cargar el archivo: HackathonScript-redbull-create-user_V3.sql
+
+<img src="opt/Pasted image 20230727042316.png" alt="sqleditor">
+
+Arrastrar o copiar el codigo SQL en el editor SQL.
+
+<img src="opt/Pasted image 20230727042420.png" alt="copycode">
+
+
+<img src="opt/Pasted image 20230727042450.png" alt="runcode">
+
+
+
+NOTA: Solamente si lo desea puede ajustar la contraseña del usuario f1 en el **paso 2**.
+
+El script se ejecutará en aproximadamente 1 minuto.
+
+<img src="opt/Pasted image 20230727042551.png" alt="out">
+
+
+
+
+
+
+
 
 [VOLVER](README.md)
