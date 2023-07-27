@@ -10,6 +10,10 @@ En database connection aparecerá la siguiente información para descargar las c
 
 Incluir una clave para la billetera y dar en *Download*
 
+```
+Nueva123$
+```
+
 <img src="opt/Pasted image 20230727045814.png" alt="Dw3">
 
 
@@ -19,7 +23,37 @@ Incluir una clave para la billetera y dar en *Download*
 
 Volver a la instancia de Analytics que se acaba de crear y que ya se encuentra provisionada. 
 
-Ingresar a la página Analytics Home page
+<img src="opt/Pasted image 20230727051048.png" alt="oac">
+
+![[Pasted image 20230727051048.png]]
+
+Ingresar a la página Analytics Home page.
+
+Por favor guarte esta url , esta url le permitirá acceder a la instancia de creación del OAC. Cada miembro del equipo podría ingresar si lo requieren.
+
+Nota: La url es única por *cada equipo.*
+
+Al ingresar selecciono el botón de **Create,** Connection
+
+<img src="opt/Pasted image 20230727051327.png" alt="oac2">
+
+![[Pasted image 20230727051327.png]]
+
+
+Seleccionar el tipo de conexión
+
+<img src="opt/Pasted image 20230727051349.png]" alt="oac3">
+
+![[Pasted image 20230727051349.png]]
+
+En crear conexión asi:
+
+<img src="opt/Pasted image 20230727051428.png" alt="oac4">
+
+![[Pasted image 20230727051428.png]]
+
+
+
 
 
 
