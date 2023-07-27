@@ -66,7 +66,7 @@ El script se ejecutará en aproximadamente 1 minuto.
 
 ---
 
-## Cambio de sesión al usuario F!.
+## Cambio de sesión al usuario *F1*.
 
 Como buenas practicas no se debe trabajar en admin, por eso se debe realizar un cambio de sesión al usuario F1 creado anteriormente.
 
