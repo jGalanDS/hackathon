@@ -72,7 +72,6 @@ Como buenas practicas no se debe trabajar en admin, por eso se debe realizar un 
 
 <img src="opt/Pasted image 20230727043506.png" alt="cambio">
 
-![[Pasted image 20230727043506.png]]
 
 
 [VOLVER](README.md)

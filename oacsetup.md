@@ -5,14 +5,9 @@ Ingresar al menú general -> Analytics & AI -> Analytics -> Analytics Cloud
 
 <img src="opt/Pasted image 20230727043930.png" alt="oac">
 
-![[Pasted image 20230727043930.png]]
-
 Seleccionar crear instancia
 
 <img src="opt/Pasted image 20230727043959.png" alt="crear">
-
-![[Pasted image 20230727043959.png]]
-
 
 Crear la instancia de Analytics con los parámetros mostrados en la imagen y selecciono crear.
 
@@ -23,11 +18,9 @@ HACKATHON
 
 <img src="opt/Pasted image 20230727044721.png" alt="datos1">
 
-![[Pasted image 20230727044721.png]]
-
 <img src="opt/Pasted image 20230727044817.png" alt="datos2">
 
-![[Pasted image 20230727044817.png]]
+
 
 
 
