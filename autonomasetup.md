@@ -33,5 +33,8 @@ Welcome123456$
 
 <img src="opt/Pasted image 20230726193833.png" alt="adw5">
 
+#### Fin de la creación de la base, el proceso puede durar unos **2 minutos** en promedio.
+---
+
 
 [VOLVER](README.md)
