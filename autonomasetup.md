@@ -64,11 +64,15 @@ El script se ejecutará en aproximadamente 1 minuto.
 
 <img src="opt/Pasted image 20230727042551.png" alt="out">
 
+---
 
+## Cambio de sesión al usuario F!.
 
+Como buenas practicas no se debe trabajar en admin, por eso se debe realizar un cambio de sesión al usuario F1 creado anteriormente.
 
+<img src="opt/Pasted image 20230727043506.png" alt="cambio">
 
-
+![[Pasted image 20230727043506.png]]
 
 
 [VOLVER](README.md)
