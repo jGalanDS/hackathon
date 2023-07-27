@@ -39,8 +39,8 @@ Al ingresar selecciono el botón de **Create,** Connection
 
 Seleccionar el tipo de conexión
 
-<img src="opt/Pasted image 20230727051349.png]" alt="oac3">
 
+<img src="opt/Pasted image 20230727051349.png]" alt="oac3">
 
 En crear conexión asi:
 
