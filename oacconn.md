@@ -25,7 +25,6 @@ Volver a la instancia de Analytics que se acaba de crear y que ya se encuentra p
 
 <img src="opt/Pasted image 20230727051048.png" alt="oac">
 
-![[Pasted image 20230727051048.png]]
 
 Ingresar a la página Analytics Home page.
 
@@ -37,20 +36,17 @@ Al ingresar selecciono el botón de **Create,** Connection
 
 <img src="opt/Pasted image 20230727051327.png" alt="oac2">
 
-![[Pasted image 20230727051327.png]]
-
 
 Seleccionar el tipo de conexión
 
 <img src="opt/Pasted image 20230727051349.png]" alt="oac3">
 
-![[Pasted image 20230727051349.png]]
 
 En crear conexión asi:
 
 <img src="opt/Pasted image 20230727051428.png" alt="oac4">
 
-![[Pasted image 20230727051428.png]]
+
 
 
 
