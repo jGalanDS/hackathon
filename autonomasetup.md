@@ -42,7 +42,8 @@ Si no has descargado el script requerido lo puedes descargar desde el siguiente 
 
 [Script SQL data F1](opt/HackathonScript-redbull-create-user_V3.sql)
 
-<img src="opt/Pasted image 20230727042157.png]" alt="datatools">
+<img src="opt/Pasted image 20230727043003.png]" alt="datatools">
+![[Pasted image 20230727043003.png]]
 
 En el editor de SQL cargar el archivo: HackathonScript-redbull-create-user_V3.sql
 
