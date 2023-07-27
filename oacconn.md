@@ -39,6 +39,7 @@ Al ingresar selecciono el botón de **Create,** Connection
 
 Seleccionar el tipo de conexión
 
+<img src="opt/Pasted image 20230727051349.png" alt="oactipo">
 
 <img src="opt/Pasted image 20230727051349.png]" alt="oac3">
 
