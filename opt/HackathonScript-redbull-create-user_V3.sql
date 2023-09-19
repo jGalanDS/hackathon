@@ -215,43 +215,43 @@ CREATE TABLE ADMIN.DRIVER_STANDINGS
   	"DELTA_POINTS_TO_LOWER_POSITION_BEFORE_RACE" NUMBER,
   	"CHANGE_DELTA_BEFORE_AND_AFTER_RACE" NUMBER
   );
---https://objectstorage.us-phoenix-1.oraclecloud.com/p/r9w6GMnIi_LBSEODiD2CZ1KNVqPfUUtuqCNmdof8dcPxgFeEDrr2RlZjSmUQmZl3/n/idch4uyl2yza/b/Racing2cloud_hackathon/o/
+
 
 begin 
     dbms_cloud.copy_data(
 	table_name => 'RACES',
 	credential_name => null,
-	file_uri_list => 'https://objectstorage.us-phoenix-1.oraclecloud.com/p/r9w6GMnIi_LBSEODiD2CZ1KNVqPfUUtuqCNmdof8dcPxgFeEDrr2RlZjSmUQmZl3/n/idch4uyl2yza/b/Racing2cloud_hackathon/o/RACES.csv',    
+	file_uri_list => 'https://objectstorage.us-phoenix-1.oraclecloud.com/p/LHlwHtFiNaOC-VgBiBhYz_FMzzSX3Hp3b6VDO08-FldQZoCHz5IfbK1wd66xRR01/n/idch4uyl2yza/b/Racing2cloud_hackathon/o/RACES.csv',    
 	format => json_object('type' value 'csv', 'ignoremissingcolumns' value 'true', 'blankasnull' value 'true' ,'skipheaders' value '1'));
 	
 	dbms_cloud.copy_data(
 	table_name => 'LAP_TIMES',
 	credential_name => null,
-	file_uri_list => 'https://objectstorage.us-phoenix-1.oraclecloud.com/p/r9w6GMnIi_LBSEODiD2CZ1KNVqPfUUtuqCNmdof8dcPxgFeEDrr2RlZjSmUQmZl3/n/idch4uyl2yza/b/Racing2cloud_hackathon/o/LAP_TIMES.csv',    
+	file_uri_list => 'https://objectstorage.us-phoenix-1.oraclecloud.com/p/LHlwHtFiNaOC-VgBiBhYz_FMzzSX3Hp3b6VDO08-FldQZoCHz5IfbK1wd66xRR01/n/idch4uyl2yza/b/Racing2cloud_hackathon/o/LAP_TIMES.csv',    
 	format => json_object('type' value 'csv', 'ignoremissingcolumns' value 'true', 'blankasnull' value 'true' ,'skipheaders' value '1'));
 	
 	dbms_cloud.copy_data(
 	table_name => 'SAFETY_CAR',
 	credential_name => null,
-	file_uri_list => 'https://objectstorage.us-phoenix-1.oraclecloud.com/p/r9w6GMnIi_LBSEODiD2CZ1KNVqPfUUtuqCNmdof8dcPxgFeEDrr2RlZjSmUQmZl3/n/idch4uyl2yza/b/Racing2cloud_hackathon/o/SAFETY_CAR.csv',    
+	file_uri_list => 'https://objectstorage.us-phoenix-1.oraclecloud.com/p/LHlwHtFiNaOC-VgBiBhYz_FMzzSX3Hp3b6VDO08-FldQZoCHz5IfbK1wd66xRR01/n/idch4uyl2yza/b/Racing2cloud_hackathon/o/SAFETY_CAR.csv',    
 	format => json_object('type' value 'csv', 'ignoremissingcolumns' value 'true', 'blankasnull' value 'true' ,'skipheaders' value '1'));
 	
 	dbms_cloud.copy_data(
 	table_name => 'PIT_STOPS',
 	credential_name => null,
-	file_uri_list => 'https://objectstorage.us-phoenix-1.oraclecloud.com/p/r9w6GMnIi_LBSEODiD2CZ1KNVqPfUUtuqCNmdof8dcPxgFeEDrr2RlZjSmUQmZl3/n/idch4uyl2yza/b/Racing2cloud_hackathon/o/PIT_STOPS.csv',    
+	file_uri_list => 'https://objectstorage.us-phoenix-1.oraclecloud.com/p/LHlwHtFiNaOC-VgBiBhYz_FMzzSX3Hp3b6VDO08-FldQZoCHz5IfbK1wd66xRR01/n/idch4uyl2yza/b/Racing2cloud_hackathon/o/PIT_STOPS.csv',    
 	format => json_object('type' value 'csv', 'ignoremissingcolumns' value 'true', 'blankasnull' value 'true' ,'skipheaders' value '1'));
 	
 	dbms_cloud.copy_data(
 	table_name => 'RESULTS',
 	credential_name => null,
-	file_uri_list => 'https://objectstorage.us-phoenix-1.oraclecloud.com/p/r9w6GMnIi_LBSEODiD2CZ1KNVqPfUUtuqCNmdof8dcPxgFeEDrr2RlZjSmUQmZl3/n/idch4uyl2yza/b/Racing2cloud_hackathon/o/RESULTS.csv',    
+	file_uri_list => 'https://objectstorage.us-phoenix-1.oraclecloud.com/p/LHlwHtFiNaOC-VgBiBhYz_FMzzSX3Hp3b6VDO08-FldQZoCHz5IfbK1wd66xRR01/n/idch4uyl2yza/b/Racing2cloud_hackathon/o/RESULTS.csv',    
 	format => json_object('type' value 'csv', 'ignoremissingcolumns' value 'true', 'blankasnull' value 'true' ,'skipheaders' value '1'));
 	
 	dbms_cloud.copy_data(
 	table_name => 'DRIVER_STANDINGS',
 	credential_name => null,
-	file_uri_list => 'https://objectstorage.us-phoenix-1.oraclecloud.com/p/r9w6GMnIi_LBSEODiD2CZ1KNVqPfUUtuqCNmdof8dcPxgFeEDrr2RlZjSmUQmZl3/n/idch4uyl2yza/b/Racing2cloud_hackathon/o/DRIVER_STANDINGS.csv',    
+	file_uri_list => 'https://objectstorage.us-phoenix-1.oraclecloud.com/p/LHlwHtFiNaOC-VgBiBhYz_FMzzSX3Hp3b6VDO08-FldQZoCHz5IfbK1wd66xRR01/n/idch4uyl2yza/b/Racing2cloud_hackathon/o/DRIVER_STANDINGS.csv',    
 	format => json_object('type' value 'csv', 'ignoremissingcolumns' value 'true', 'blankasnull' value 'true' ,'skipheaders' value '1'));
 	
 	commit;
