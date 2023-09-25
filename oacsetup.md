@@ -22,6 +22,12 @@ HACKATHON
 
 
 
+## Los pasos en video a continuación. 
+
+
+<a href="https://youtu.be/fhUJXfU3AMY" target="_blank">  </a>
+
+https://youtu.be/fhUJXfU3AMY
 
 
 [VOLVER](README.md)
