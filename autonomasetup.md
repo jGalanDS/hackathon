@@ -71,7 +71,17 @@ El script se ejecutará en aproximadamente 1 minuto.
 Como buenas practicas no se debe trabajar en admin, por eso se debe realizar un cambio de sesión al usuario F1 creado anteriormente.
 
 <img src="opt/Pasted image 20230727043506.png" alt="cambio">
+USUARIO
 
+```
+F1
+```
+
+PASSWORD
+
+```
+Oracle_12345
+```
 
 
 [VOLVER](README.md)
