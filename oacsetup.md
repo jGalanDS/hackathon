@@ -16,7 +16,7 @@ NAME
 HACKATHON
 ```
 
-<img src="opt/Pasted image 20230727044721.png" alt="datos1">
+<img src="opt/oacsetup.png" alt="datos1">
 
 <img src="opt/Pasted image 20230727044817.png" alt="datos2">
 
