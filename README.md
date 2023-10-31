@@ -80,4 +80,4 @@ El **equipo** que conteste estas dos preguntas en el menor tiempo tendrá una bo
 ---
 
 ###### Creado por JGALAN https://www.linkedin.com/in/jorge-alexander-galan-mendez/
-V_2.0
+V_2.1
